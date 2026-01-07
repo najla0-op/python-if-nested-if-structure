@@ -1,0 +1,10 @@
+grade =  95
+
+if grade >= 80 :
+   print("Grade A")
+elif score >= 60 :
+   print("Grade B")
+elif score >= 50 :
+   print("Grade c")
+else :
+   print("Fail")
