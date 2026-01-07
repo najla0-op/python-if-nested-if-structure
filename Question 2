@@ -1,0 +1,4 @@
+totalpurchase = 140
+
+if totalpurchase > 100 :
+   print("You get a discount!")
