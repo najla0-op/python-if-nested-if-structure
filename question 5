@@ -1,0 +1,10 @@
+is_staff = True
+access_level = 5
+
+if is_staff :
+   if access level >= 5:
+      print("Access granted")
+    else :
+       print("Access denied : insufficient level")
+else :
+  print("Access denied : staff only")
